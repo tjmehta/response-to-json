@@ -1,6 +1,6 @@
 {
   "name": "response-to-json",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Return JSON representation of a response",
   "main": "index.js",
   "scripts": {
