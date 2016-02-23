@@ -1,0 +1,40 @@
+{
+  "name": "response-to-json",
+  "version": "0.0.0",
+  "description": "Return JSON representation of a response",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab --verbose --assert code --threshold 100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjmehta/response-to-json.git"
+  },
+  "keywords": [
+    "res",
+    "response",
+    "to",
+    "json",
+    "convert",
+    "cast",
+    "to-json",
+    "return",
+    "req"
+  ],
+  "author": "Tejesh Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjmehta/response-to-json/issues"
+  },
+  "homepage": "https://github.com/tjmehta/response-to-json#readme",
+  "devDependencies": {
+    "101": "^1.4.0",
+    "code": "^1.5.0",
+    "lab": "^5.18.1",
+    "sinon": "^1.17.3",
+    "standard": "^6.0.7"
+  },
+  "dependencies": {
+    "101": "^1.4.0"
+  }
+}
